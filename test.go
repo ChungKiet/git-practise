@@ -1,5 +1,5 @@
 package main
 
-func nhap() {
-
+func nhap2() {
+	// doi ten ham
 }
